@@ -11,13 +11,20 @@ Yfirleitt eru tveir á "bot lane'inu", einn í miðju "lane'inu" einn í jungle 
 að græða pening til að kaupa þér hluti sem að gera hetjuna þína sterkari. Þú safnar pening með því að drepa drepa aðrar hetjur, skrímsli eða "minions" eða eyðileggja turna. Í hvert skipti sem þú deyrð þarftu að bíða í í kringum 20 sekúndur og tíminn fer svo hækkandi með leiknum.
 
 
-2. Hvenær var hann búinn til  27 Október 2009
-3. Hverjir eru höfundar og framleiðendur Riot Games
-4. Hverjir eru notendur leiksins (aldur – kyn - áhugamál) Aldur mest á milli 16-20 ~ 40%, mest strákar og áhugamál líklegast áhugi á tölvuleikjum 
-5. Hvernig hefur leikurinn þróast fyrir nokkrum árum voru 67 milljónir manns inná mánaðarlega en 2016 100 milljón manns, hann græddi 1.6 milljónir dollara á seinasta ári þrátt fyrir að hann sé frír
-6. Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn fleiri esport keppnir í honum og helst líklegast um svipaða stærð 
-7. Ritgerðin á að vera á íslensku eða á móðurmáli nemenda. 
-8. Setjið myndefni á vefsíðuna til að styðja framsetninguna.
+
+
+League Of Legends kom fyrst út 27 Október 2009 og varð strax mjög vinsæll.
+
+Leikurinn var búinn til í Kína af Tencent Inc. og gefin út af Riot Games. Í Júlí 2009 var svo auglýst að leikurinn væri frír en hægt
+er að kaupa pening í leiknum eða "RP" sem þú notar í að kaupa hetjur eða "skins". Hægt er að kaupa hetjur með pening sem þú safnar
+þegar þú spilar leikinn "LP" en ekki er hægt að nota þann pening fyrir "skins".
+
+Flestir sem spila leikinn eru á aldrinunm 16-20 ~ 40%. Það er miklu meira um stráka sem spila þennan leik og áhugamál líklegast á tölvuleikjum.
+
+Í kringum 2012 voru 67 milljónir manns inná mánaðarlega en 2016 hækkaði það í 100 milljón manns. Riot græddi 1.6 milljónir dollara á seinasta ári þrátt fyrir að hann sé frír.
+
+Leikurinn hefur farið vakandi frá því hann kom út og Riot heldur reglulega mót þar sem keppt er um miklar upphæðir peninga. Stærsta mótið er League of Legends Championship Series
+en þar er keppt uppá $50.000 eða 5.350.500 kr. á mann.
 
 https://docs.google.com/forms/d/1-fMwua7-y9SqfTCZro0ez19E8MkY-ddfTDQk1EFovxY/viewanalytics
 http://forums.na.leagueoflegends.com/board/showthread.php?t=1989410
