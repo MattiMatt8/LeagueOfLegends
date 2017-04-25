@@ -1,7 +1,16 @@
 # LeagueOfLegends
 League Of Legends Lokaverkefni
 
-1. Hvaða tegund af tölvuleik er um að ræða  MOBA
+League Of Legends er MOBA (Multiplayer online battle arena) leikur. Þar spila keppendur yfrirleitt fimm á móti fimm.
+Í byrjun leiksins færðu tuttugu fría "champions" eða hetjur sem þú getur svo spilað á móti öðrum spilurum. Alls eru 136 hetjur
+sem þú getur keypt með peningnum (lp) sem þú færð fyrir hvern og einn leik sem þú spilar. Þú getur líka keypt þér RP til að kaupa
+hetjur en þá RP kaupir þú með alvöru pening í gegnum kredit kort. Hver og einn leikur er yfirleitt í kringum 30-40 mínútur
+og til að vinna þarftu að eyðileggja "base'ið" hjá hinu liðinu.
+Til að komast að "base'inu" þartu að eyðileggja turna hjá hinu liðinu. Hvert lið er með 11 turna og fjórar stöður til að velja úr, top, mid, jungle eða bottom.
+Yfirleitt eru tveir á "bot lane'inu", einn í miðju "lane'inu" einn í jungle og síðan einn á "toppinu". Í hverjum leik þarftu svo 
+að græða pening til að kaupa þér hluti sem að gera hetjuna þína sterkari. Þú safnar pening með því að drepa drepa aðrar hetjur, skrímsli eða "minions" eða eyðileggja turna. Í hvert skipti sem þú deyrð þarftu að bíða í í kringum 20 sekúndur og tíminn fer svo hækkandi með leiknum.
+
+
 2. Hvenær var hann búinn til  27 Október 2009
 3. Hverjir eru höfundar og framleiðendur Riot Games
 4. Hverjir eru notendur leiksins (aldur – kyn - áhugamál) Aldur mest á milli 16-20 ~ 40%, mest strákar og áhugamál líklegast áhugi á tölvuleikjum 
