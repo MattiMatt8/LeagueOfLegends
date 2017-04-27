@@ -26,6 +26,19 @@ Flestir sem spila leikinn eru á aldrinunm 16-20 ~ 40%. Það er miklu meira um 
 Leikurinn hefur farið vakandi frá því hann kom út og Riot heldur reglulega mót þar sem keppt er um miklar upphæðir peninga. Stærsta mótið er League of Legends Championship Series
 en þar er keppt uppá $50.000 eða 5.350.500 kr. á mann.
 
+Það eru 10 Serverar. Hér er prósentu fjöldi spilara eftir serverum.
+
+KOREA: 26,2%
+EUW: 23,56%
+NA: 14,63%
+EUNE: 11,48%
+BR: 8,1%
+TR: 5,1%
+LAS: 3,68%
+LAN: 3,6%
+OCE: 1,71%
+JAPAN: 0,67%
+
 https://www.unrankedsmurfs.com/images/upload/blog/2016/07/serverpoplol.jpg
 https://docs.google.com/forms/d/1-fMwua7-y9SqfTCZro0ez19E8MkY-ddfTDQk1EFovxY/viewanalytics
 http://forums.na.leagueoflegends.com/board/showthread.php?t=1989410
