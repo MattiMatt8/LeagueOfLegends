@@ -26,6 +26,7 @@ Flestir sem spila leikinn eru á aldrinunm 16-20 ~ 40%. Það er miklu meira um 
 Leikurinn hefur farið vakandi frá því hann kom út og Riot heldur reglulega mót þar sem keppt er um miklar upphæðir peninga. Stærsta mótið er League of Legends Championship Series
 en þar er keppt uppá $50.000 eða 5.350.500 kr. á mann.
 
+https://www.unrankedsmurfs.com/images/upload/blog/2016/07/serverpoplol.jpg
 https://docs.google.com/forms/d/1-fMwua7-y9SqfTCZro0ez19E8MkY-ddfTDQk1EFovxY/viewanalytics
 http://forums.na.leagueoflegends.com/board/showthread.php?t=1989410
 https://en.wikipedia.org/wiki/League_of_Legends
