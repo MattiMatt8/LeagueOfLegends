@@ -38,16 +38,3 @@ LAS: 3,68%
 LAN: 3,6%
 OCE: 1,71%
 JAPAN: 0,67%
-
-https://www.unrankedsmurfs.com/images/upload/blog/2016/07/serverpoplol.jpg
-https://docs.google.com/forms/d/1-fMwua7-y9SqfTCZro0ez19E8MkY-ddfTDQk1EFovxY/viewanalytics
-http://forums.na.leagueoflegends.com/board/showthread.php?t=1989410
-https://en.wikipedia.org/wiki/League_of_Legends
-https://en.wikipedia.org/wiki/Riot_Games
-http://www.riftherald.com/2016/9/13/12865314/monthly-lol-players-2016-active-worldwide
-https://dotesports.com/league-of-legends/league-of-legends-2015-revenue-2839
-
-
-http://leagueoflegends.wikia.com/wiki/Field_of_Justice
-https://www.killping.com/blog/league-of-legends-best-support/
-http://uk.businessinsider.com/how-faker-skt-won-league-of-legends-world-championships-2015-2015-11?r=US&IR=T
