@@ -1,5 +1,6 @@
 # LeagueOfLegends
 League Of Legends Lokaverkefni
+Harpa Hrund og Matthías
 
 League Of Legends er MOBA (Multiplayer online battle arena) leikur. Þar spila keppendur yfrirleitt fimm á móti fimm.
 Í byrjun leiksins færðu tuttugu fría "champions" eða hetjur sem þú getur svo spilað á móti öðrum spilurum. Alls eru 136 hetjur
