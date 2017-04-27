@@ -2,6 +2,8 @@
 League Of Legends Lokaverkefni
 Harpa Hrund og Matthías
 
+http://tsuts.tskoli.is/2t/1501002670/vsh1a/lokaverkefni/
+
 League Of Legends er MOBA (Multiplayer online battle arena) leikur. Þar spila keppendur yfrirleitt fimm á móti fimm.
 Í byrjun leiksins færðu tuttugu fría "champions" eða hetjur sem þú getur svo spilað á móti öðrum spilurum. Alls eru 136 hetjur
 sem þú getur keypt með peningnum (lp) sem þú færð fyrir hvern og einn leik sem þú spilar. Þú getur líka keypt þér RP til að kaupa
@@ -39,3 +41,5 @@ LAS: 3,68%
 LAN: 3,6%
 OCE: 1,71%
 JAPAN: 0,67%
+
+http://tsuts.tskoli.is/2t/1501002670/vsh1a/lokaverkefni/
