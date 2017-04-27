@@ -35,3 +35,6 @@ http://www.riftherald.com/2016/9/13/12865314/monthly-lol-players-2016-active-wor
 https://dotesports.com/league-of-legends/league-of-legends-2015-revenue-2839
 
 
+http://leagueoflegends.wikia.com/wiki/Field_of_Justice
+https://www.killping.com/blog/league-of-legends-best-support/
+http://uk.businessinsider.com/how-faker-skt-won-league-of-legends-world-championships-2015-2015-11?r=US&IR=T
