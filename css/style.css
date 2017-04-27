@@ -1,0 +1,141 @@
+body{
+	background: url(../myndir/bg.jpg);
+	background-height: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: #000;
+	color: #fff;
+	font-family: arial;
+}
+div.container{
+	max-width: 70em;
+	margin:0 auto;
+}
+nav{
+	display:flex;
+	border-radius: 6px;
+	padding: 0 60px;
+	justify-content:flex-start;
+	font-size: 20px;
+}
+nav a{
+	display: flex;
+	color: #fff;
+	text-decoration: none;
+	height: 55px;
+	align-items:center;
+	padding: 0 14px;
+	font-weight: bold;
+	text-shadow: 1px 2px #000;
+}
+nav a:hover{
+	background-color: rgba(0, 0, 0, 0.55);
+}
+nav div.haegri{
+	display:flex;
+	justify-content:flex-end;
+	flex-grow:1;
+	align-items:center;
+}
+article div h1{
+	display:flex;
+	font-size: 40px;
+	justify-content:center;
+	margin-bottom: 40px;
+	margin-top: 60px;
+	text-shadow: 6px 5px #000;
+}
+article div.box{
+	font-size: 16px;
+	line-height: 30px;
+	background-color: rgba(0, 0, 0, 0.55);
+	padding: 25px 25px;
+	border-radius: 10px;
+	width:100%;
+}
+footer{
+	display:flex;
+	height: 60px;
+	align-items:center;
+	padding: 0 50px;
+}
+footer div.haegri{
+	display:flex;
+	flex-grow:1;
+	justify-content:flex-end;
+	font-size: 40px;
+}
+footer div.haegri a{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	text-decoration:none;
+	color:#fff;
+	border-radius:100%;
+	border: 2px solid #fff;
+	width: 40px;
+	height: 40px;
+}
+footer div.haegri a:hover{
+	background-color: #fff;
+	color:#000;
+}
+div.leikurinn{
+	display:flex;
+	width:100%;
+}
+div.leikurinn div.vinstri{
+	display:flex;
+	flex-grow:1;
+	width: 50%;
+}
+div.leikurinn div.haegri{
+	display:flex;
+	flex-flow:column;
+	flex-direction:column;
+	width: 50%;
+	margin-left:30px;
+}
+div.mynd1 img{
+	width:100%;
+	margin-top:20px;
+	float:right;
+}
+div.leikurinn div.mynd2{
+	display:flex;
+	flex-flow:row;
+	width:100%;
+}
+div.leikmenn{
+	display:flex;
+}
+div.leikmenn div.vinstri{
+	width:40%;
+}
+div.leikmenn div.haegri{
+	display:flex;
+	justify-content:flex-end;
+	flex-grow:1;
+	width:60%;
+}
+div.leikmenn div.haegri img{
+	height:400px;
+}
+div.leikmenn div.toppur{
+	display:flex;
+	text-align:center;
+	justify-content:center;
+}
+div.umLeikinn{
+	display:flex;
+}
+div.umLeikinn div.vinstri{
+	width:50%;
+}
+div.umLeikinn div.haegri{
+	width:50%;
+	
+}
+div.umLeikinn div.haegri img{
+	height:270px;
+}
